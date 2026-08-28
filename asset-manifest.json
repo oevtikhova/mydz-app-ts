@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mykr-app-ts/static/css/main.92ad7174.css",
+    "main.js": "/mykr-app-ts/static/js/main.70fe4e07.js",
+    "static/js/453.72d0ac30.chunk.js": "/mykr-app-ts/static/js/453.72d0ac30.chunk.js",
+    "static/media/avatar.png": "/mykr-app-ts/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/mykr-app-ts/index.html",
+    "main.92ad7174.css.map": "/mykr-app-ts/static/css/main.92ad7174.css.map",
+    "main.70fe4e07.js.map": "/mykr-app-ts/static/js/main.70fe4e07.js.map",
+    "453.72d0ac30.chunk.js.map": "/mykr-app-ts/static/js/453.72d0ac30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ad7174.css",
+    "static/js/main.70fe4e07.js"
+  ]
+}
